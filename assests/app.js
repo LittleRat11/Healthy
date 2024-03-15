@@ -45,7 +45,7 @@ function updateTestimonial() {
     }, 5000);
 }
 
-// *rating 
+// *rating feedback
 const stars = document.querySelectorAll(".fa-star");
 const emojis = document.querySelectorAll(".far");
 const ratingText = document.querySelector(".rating-feedback");
